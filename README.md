@@ -6,7 +6,7 @@
 
 # Repo Trabalho Interdisciplinar: Front-End
 
-![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=files) ![GitHub directory file count](https://img.shields.io/github/directory-file-count/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=files) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=git) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=python) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&color=007ec6&logo=opensourceinitiative) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&color=007ec6&logo=gitkraken) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=clockify) ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%2Ftrabalho-interdisciplinar-front-end&leftColor=555555&rightColor=007ec6&type=total&label=RepoViews)  
+![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=files) ![GitHub directory file count](https://img.shields.io/github/directory-file-count/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=files) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=git) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=python) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&color=007ec6&logo=opensourceinitiative?v=2) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&color=007ec6&logo=gitkraken) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/trabalho-interdisciplinar-front-end?style=for-the-badge&logo=clockify) ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%2Ftrabalho-interdisciplinar-front-end&leftColor=555555&rightColor=007ec6&type=total&label=RepoViews)  
 
 Disciplina do curso de Ciência da Computação da PUC Minas
 
@@ -18,3 +18,11 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 
 ##### Calendário Acadêmico
 - 📅 [Calendário Acadêmico 2026 - PUC Minas](https://github.com/user-attachments/files/24117753/calendario-academico-2026.pdf)
+
+-----
+
+<div align="center">
+  <img width="70%" alt="pucminas" src="https://joaopauloaramuni.github.io/image/engsoft2.svg?raw=true"/>
+</div>
+
+-----
