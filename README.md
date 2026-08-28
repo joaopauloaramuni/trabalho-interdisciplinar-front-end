@@ -126,6 +126,23 @@ Esses recursos ajudam a **elevar seu aprendizado, organizar seus projetos e turb
 
 -----
 
+#### 🗓️ Trabalhos de TI2:
+
+##### 📅 2°Sem 2026:
+
+###### Campus Lourdes:
+- [LOURDES CC 2026-2 TI2 - XXX](xxx)
+
+###### Campus Coração Eucarístico:
+- [COREU CC 2026-2 TI2 - Contabilidade GE Alves](https://github.com/Hparmaa/site-contabilidade-alves-TI-2)
+- [COREU CC 2026-2 TI2 - SportTime](https://github.com/matheusmms031/TI2-PROJECT)
+- [COREU CC 2026-2 TI2 - Coreu Urban Hotel](https://github.com/Hebertws/TI2-Coreu-Urban-Hotel)
+- [COREU CC 2026-2 TI2 - RPG](https://github.com/oFormiga/TI2-RPG)
+- [COREU CC 2026-2 TI2 - XXX](XXX)
+- [COREU CC 2026-2 TI2 - XXX](XXX)
+
+-----
+
 <div align="center">
   <img width="70%" alt="pucminas" src="https://joaopauloaramuni.github.io/image/engsoft2.svg?raw=true"/>
 </div>
