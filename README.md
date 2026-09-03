@@ -138,8 +138,8 @@ Esses recursos ajudam a **elevar seu aprendizado, organizar seus projetos e turb
 - [COREU CC 2026-2 TI2 - SportTime](https://github.com/matheusmms031/TI2-PROJECT)
 - [COREU CC 2026-2 TI2 - Coreu Urban Hotel](https://github.com/Hebertws/TI2-Coreu-Urban-Hotel)
 - [COREU CC 2026-2 TI2 - RPG](https://github.com/oFormiga/TI2-RPG)
-- [COREU CC 2026-2 TI2 - XXX](XXX)
-- [COREU CC 2026-2 TI2 - XXX](XXX)
+- [COREU CC 2026-2 TI2 - Sigfin](https://github.com/matheusfirst/sigfin)
+- [COREU CC 2026-2 TI2 - FindPro](https://github.com/IsabelaSilvaOliveira/FindPro---TI2)
 
 -----
 
