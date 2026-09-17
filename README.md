@@ -132,14 +132,22 @@ Esses recursos ajudam a **elevar seu aprendizado, organizar seus projetos e turb
 
 ###### Campus Lourdes:
 - [LOURDES CC 2026-2 TI2 - XXX](xxx)
+- [LOURDES CC 2026-2 TI2 - XXX](xxx)
+- [LOURDES CC 2026-2 TI2 - XXX](xxx)
+- [LOURDES CC 2026-2 TI2 - XXX](xxx)
+- [LOURDES CC 2026-2 TI2 - XXX](xxx)
+- [LOURDES CC 2026-2 TI2 - XXX](xxx)
+- [LOURDES CC 2026-2 TI2 - XXX](xxx)
+- [LOURDES CC 2026-2 TI2 - XXX](xxx)
+- [LOURDES CC 2026-2 TI2 - XXX](xxx)
 
 ###### Campus Coração Eucarístico:
-- [COREU CC 2026-2 TI2 - Contabilidade GE Alves](https://github.com/Hparmaa/site-contabilidade-alves-TI-2)
-- [COREU CC 2026-2 TI2 - SportTime](https://github.com/matheusmms031/TI2-PROJECT)
-- [COREU CC 2026-2 TI2 - Coreu Urban Hotel](https://github.com/Hebertws/TI2-Coreu-Urban-Hotel)
-- [COREU CC 2026-2 TI2 - RPG](https://github.com/oFormiga/TI2-RPG)
-- [COREU CC 2026-2 TI2 - Sigfin](https://github.com/matheusfirst/sigfin)
-- [COREU CC 2026-2 TI2 - FindPro](https://github.com/IsabelaSilvaOliveira/FindPro---TI2)
+- [COREU CC 2026-2 TI2 - G1 - FindPro](https://github.com/ICEI-PUC-Minas-CC-TI/pmg-cc-2026-2-ti2-6288100-pmg-cc-2026-2-6288100-G1-FindPro)
+- [COREU CC 2026-2 TI2 - G2 - Contabilidade GE Alves](https://github.com/ICEI-PUC-Minas-CC-TI/pmg-cc-2026-2-ti2-6288100-pmg-cc-2026-2-6288100-G2-Contabilidade-GE-ALVES)
+- [COREU CC 2026-2 TI2 - G3 - SportTime](https://github.com/ICEI-PUC-Minas-CC-TI/pmg-cc-2026-2-ti2-6288100-pmg-cc-2026-2-6288100-G3-SportTime)
+- [COREU CC 2026-2 TI2 - G4 - Coreu Urban Hotel](https://github.com/ICEI-PUC-Minas-CC-TI/pmg-cc-2026-2-ti2-6288100-pmg-cc-2026-2-6288100-G4-Coreu-Urban-Hotel)
+- [COREU CC 2026-2 TI2 - G5 - SiFinance](https://github.com/ICEI-PUC-Minas-CC-TI/pmg-cc-2026-2-ti2-6288100-pmg-cc-2026-2-6288100-G5-SiFinance)
+- [COREU CC 2026-2 TI2 - G6 - RPG](https://github.com/ICEI-PUC-Minas-CC-TI/pmg-cc-2026-2-ti2-6288100-pmg-cc-2026-2-6288100-G6-RPG)
 
 -----
 
