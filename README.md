@@ -131,15 +131,15 @@ Esses recursos ajudam a **elevar seu aprendizado, organizar seus projetos e turb
 ##### 📅 2°Sem 2026:
 
 ###### Campus Lourdes:
-- [LOURDES CC 2026-2 TI2 - XXX](xxx)
-- [LOURDES CC 2026-2 TI2 - XXX](xxx)
-- [LOURDES CC 2026-2 TI2 - XXX](xxx)
-- [LOURDES CC 2026-2 TI2 - XXX](xxx)
-- [LOURDES CC 2026-2 TI2 - XXX](xxx)
-- [LOURDES CC 2026-2 TI2 - XXX](xxx)
-- [LOURDES CC 2026-2 TI2 - XXX](xxx)
-- [LOURDES CC 2026-2 TI2 - XXX](xxx)
-- [LOURDES CC 2026-2 TI2 - XXX](xxx)
+- [LOURDES CC 2026-2 TI2 - G1](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-1)
+- [LOURDES CC 2026-2 TI2 - G2](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-2)
+- [LOURDES CC 2026-2 TI2 - G3](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-3)
+- [LOURDES CC 2026-2 TI2 - G4](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-4)
+- [LOURDES CC 2026-2 TI2 - G5](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-5)
+- [LOURDES CC 2026-2 TI2 - G6](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-6)
+- [LOURDES CC 2026-2 TI2 - G7](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-7)
+- [LOURDES CC 2026-2 TI2 - G8](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-8)
+- [LOURDES CC 2026-2 TI2 - G9](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-9)
 
 ###### Campus Coração Eucarístico:
 - [COREU CC 2026-2 TI2 - G1 - FindPro](https://github.com/ICEI-PUC-Minas-CC-TI/pmg-cc-2026-2-ti2-6288100-pmg-cc-2026-2-6288100-G1-FindPro)
