@@ -26,6 +26,9 @@
 
 -----
 
+### Sumário:
+- [Plano de Ensino](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/tree/main/PLANO%20DE%20ENSINO)
+
 #### Links úteis:
 
 ##### Calendário Acadêmico
