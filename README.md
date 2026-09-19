@@ -139,7 +139,7 @@ Esses recursos ajudam a **elevar seu aprendizado, organizar seus projetos e turb
 - [LOURDES CC 2026-2 TI2 - G3 - HealthyStep](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-3)
 - [LOURDES CC 2026-2 TI2 - G4 - Mentora](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-4)
 - [LOURDES CC 2026-2 TI2 - G5 - Topdeck](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-5)
-- [LOURDES CC 2026-2 TI2 - G6](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-6)
+- [LOURDES CC 2026-2 TI2 - G6 - Vireo](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-6)
 - [LOURDES CC 2026-2 TI2 - G7](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-7)
 - [LOURDES CC 2026-2 TI2 - G8](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-8)
 - [LOURDES CC 2026-2 TI2 - G9](https://github.com/ICEI-PUC-Minas-CC-TI/plu-cc-2026-2-ti2-4354100-plu-cc-2026-2-ti2-4354100-group-9)
